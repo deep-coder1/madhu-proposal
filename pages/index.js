@@ -1,6 +1,6 @@
-import { useState } from 'react';
-import Confetti from 'react-confetti';
-import Head from 'next/head';
+import { useState } from "react";
+import Confetti from "react-confetti";
+import Head from "next/head";
 
 export default function Home() {
   const [accepted, setAccepted] = useState(false);
@@ -18,11 +18,13 @@ export default function Home() {
       </h1>
 
       <p className="text-lg md:text-xl max-w-xl text-gray-700 mb-6">
-        I'm Deepak Thakur, and every moment with you feels magical. From the way you smile to the way you light up my day, you've become so special to me.
+        I&apos;m Deepak Thakur, and every moment with you feels magical. From
+        the way you smile to the way you light up my day, you&apos;ve become so
+        special to me.
       </p>
 
       <p className="text-lg md:text-xl max-w-xl text-gray-700 mb-6">
-        So here's something from my heart...
+        So here&apos;s something from my heart...
       </p>
 
       {!accepted ? (
@@ -45,7 +47,8 @@ export default function Home() {
             You said YES! 💃💍
           </h2>
           <p className="mt-4 text-lg text-gray-800">
-            You’ve made me the happiest person alive. I can't wait to create beautiful memories with you.
+            You’ve made me the happiest person alive. I can&apos;t wait to
+            create beautiful memories with you.
           </p>
         </div>
       )}
