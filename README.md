@@ -32,7 +32,7 @@ Built using **Next.js**, **Tailwind CSS**, and a sprinkle of ❤️.
 
 ## 📸 Preview
 
-![Screenshot Placeholder](https://user-images.githubusercontent.com/your-screenshot.png)
+<!-- ![Screenshot Placeholder](https://user-images.githubusercontent.com/your-screenshot.png) -->
 <!-- You can upload your screenshot and replace the link above -->
 ![alt text](image.png)
 
